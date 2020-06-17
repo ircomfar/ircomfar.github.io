@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'iransans';
+   font-display: swap;
+   src: url('iransans/font.ttf');
+}
+@font-face {
+   font-family: 'iransans_bold';
+   font-display: swap;
+   src: url('iransans_bold/font.ttf');
+}
